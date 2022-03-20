@@ -1,6 +1,6 @@
 ## Welcome to this training page
 
-Intro tekst.
+Intro tekst aangepast
 
 ### Markdown
 
