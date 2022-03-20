@@ -2,7 +2,7 @@
 
 Intro tekst aangepast
 
-### Markdown
+### Docenten
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
